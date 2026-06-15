@@ -12,7 +12,7 @@ cp .env.example .env.local   # paste your Bright Data token into BRIGHTDATA_API_
 npm run dev                  # open http://localhost:3000
 ```
 
-You need a Bright Data token with **Pro mode** on ([pricing](https://brightdata.com/pricing/mcp-server)); the `web_data_*` tools aren't free. Pro is already wired into the code, so it works as soon as your account has it. The first scrape takes up to a minute.
+You need a Bright Data token with **Pro mode** on ([pricing](https://brightdata.com/pricing/mcp-server)); the `web_data_*` tools aren't free. Pro is already wired into the code, so it works as soon as your account has it. The first scrape takes about a minute.
 
 ## Good to know
 
